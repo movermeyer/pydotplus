@@ -2,23 +2,23 @@
 PyDotPlus - Python interface to Graphviz's Dot language
 =======================================================
 
-.. image:: https://pypip.in/py_versions/pydotplus/badge.png
+.. image:: https://img.shields.io/pypi/pyversions/pydotplus.svg
    :target: https://pypi.python.org/pypi/pydotplus/
    :alt: Supported Python versions
 
-.. image:: https://pypip.in/version/pydotplus/badge.png?text=version
+.. image:: https://img.shields.io/pypi/v/pydotplus.svg?label=version
    :target: https://pypi.python.org/pypi/pydotplus/
    :alt: Latest Version
 
-.. image:: https://pypip.in/download/pydotplus/badge.png
+.. image:: https://img.shields.io/pypi/dm/pydotplus.svg
    :target: https://pypi.python.org/pypi/pydotplus/
    :alt: Downloads
 
-.. image:: https://pypip.in/license/pydotplus/badge.png
+.. image:: https://img.shields.io/pypi/l/pydotplus.svg
    :target: https://pypi.python.org/pypi/pydotplus/
    :alt: License
 
-.. image:: https://pypip.in/status/pydotplus/badge.png
+.. image:: https://img.shields.io/pypi/status/pydotplus.svg
    :target: https://pypi.python.org/pypi/pydotplus/
    :alt: Status
 
